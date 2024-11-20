@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/donatr/static/css/main.74f1296c.css",
-    "main.js": "/donatr/static/js/main.d640e7ee.js",
+    "main.js": "/donatr/static/js/main.dbc147cd.js",
     "index.html": "/donatr/index.html",
     "main.74f1296c.css.map": "/donatr/static/css/main.74f1296c.css.map",
-    "main.d640e7ee.js.map": "/donatr/static/js/main.d640e7ee.js.map"
+    "main.dbc147cd.js.map": "/donatr/static/js/main.dbc147cd.js.map"
   },
   "entrypoints": [
     "static/css/main.74f1296c.css",
-    "static/js/main.d640e7ee.js"
+    "static/js/main.dbc147cd.js"
   ]
 }
