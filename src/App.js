@@ -4,8 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import CreatePool from "./pages/CreatePool";
-import "./App.css"; // Optional, if you have any app-level styles
-
+import "./App.css"; 
 function App() {
   return (
     <div className="App">
